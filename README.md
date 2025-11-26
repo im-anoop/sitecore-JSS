@@ -1,2 +1,2 @@
-# sitecore-JSS
-Sitecore JSS development
+# sitecore-headless-nextjs-jss
+sitecore development

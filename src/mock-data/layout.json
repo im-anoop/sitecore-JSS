@@ -1,0 +1,21 @@
+{
+  "sitecore": {
+    "route": {
+      "name": "Home",
+      "placeholders": {
+        "header": [
+          { "componentName": "Header", "fields": { "title": { "value": "Food Recipe Portal" } } },
+          { "componentName": "HeroBanner", "dataSource": "banner-1" },
+          { "componentName": "RecipeComponent", "dataSource": "recipe-3" }
+        ],
+        "main": [
+          { "componentName": "RecipeCard", "dataSource": "recipe-1" },
+          { "componentName": "RecipeCard", "dataSource": "recipe-2" }
+        ],
+        "footer": [
+          { "componentName": "Footer", "fields": { "text": { "value": "© 2025 Food Recipes" } } }
+        ]
+      }
+    }
+  }
+}

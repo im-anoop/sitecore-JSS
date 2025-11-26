@@ -1,0 +1,202 @@
+[
+  {
+    "id": "blog-1",
+    "created": "2025-11-19T10:00:00",
+    "fields": {
+      "title": { "value": "How to Bake Perfect Bread" },
+      "summary": { "value": "Learn the secrets to golden crust and fluffy texture." },
+      "image": { "src": "/FoodImg.webp", "alt": "Bread" },
+      "cta": { "href": "/blogs/bake-perfect-bread", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-2",
+    "created": "2025-11-18T09:00:00",
+    "fields": {
+      "title": { "value": "Paneer Tikka Recipe" },
+      "summary": { "value": "Spicy, smoky, and delicious — a North Indian favorite." },
+      "image": { "src": "/banner.jpg", "alt": "Paneer Tikka" },
+      "cta": { "href": "/blogs/paneer-tikka", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-3",
+    "created": "2025-11-17T08:00:00",
+    "fields": {
+      "title": { "value": "Chocolate Cake Tips" },
+      "summary": { "value": "Moist, rich, and indulgent — here’s how to master it." },
+      "image": { "src": "/FoodImg.webp", "alt": "Chocolate Cake" },
+      "cta": { "href": "/blogs/chocolate-cake", "text": "Read More" }
+    }
+  },
+    {
+    "id": "blog-4",
+    "created": "2025-11-19T10:00:00",
+    "fields": {
+      "title": { "value": "How to Bake Perfect Bread" },
+      "summary": { "value": "Learn the secrets to golden crust and fluffy texture." },
+      "image": { "src": "/banner.jpg", "alt": "Bread" },
+      "cta": { "href": "/blogs/bake-perfect-bread", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-5",
+    "created": "2025-11-18T09:00:00",
+    "fields": {
+      "title": { "value": "Paneer Tikka Recipe" },
+      "summary": { "value": "Spicy, smoky, and delicious — a North Indian favorite." },
+      "image": { "src": "/FoodImg.webp", "alt": "Paneer Tikka" },
+      "cta": { "href": "/blogs/paneer-tikka", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-6",
+    "created": "2025-11-17T08:00:00",
+    "fields": {
+      "title": { "value": "Chocolate Cake Tips" },
+      "summary": { "value": "Moist, rich, and indulgent — here’s how to master it." },
+      "image": { "src": "/FoodImg.webp", "alt": "Chocolate Cake" },
+      "cta": { "href": "/blogs/chocolate-cake", "text": "Read More" }
+    }
+  },
+    {
+    "id": "blog-7",
+    "created": "2025-11-19T10:00:00",
+    "fields": {
+      "title": { "value": "How to Bake Perfect Bread" },
+      "summary": { "value": "Learn the secrets to golden crust and fluffy texture." },
+      "image": { "src": "/banner.jpg", "alt": "Bread" },
+      "cta": { "href": "/blogs/bake-perfect-bread", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-8",
+    "created": "2025-11-18T09:00:00",
+    "fields": {
+      "title": { "value": "Paneer Tikka Recipe" },
+      "summary": { "value": "Spicy, smoky, and delicious — a North Indian favorite." },
+      "image": { "src": "/FoodImg.webp", "alt": "Paneer Tikka" },
+      "cta": { "href": "/blogs/paneer-tikka", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-9",
+    "created": "2025-11-17T08:00:00",
+    "fields": {
+      "title": { "value": "Chocolate Cake Tips" },
+      "summary": { "value": "Moist, rich, and indulgent — here’s how to master it." },
+      "image": { "src": "/FoodImg.webp", "alt": "Chocolate Cake" },
+      "cta": { "href": "/blogs/chocolate-cake", "text": "Read More" }
+    }
+  },
+    {
+    "id": "blog-10",
+    "created": "2025-11-19T10:00:00",
+    "fields": {
+      "title": { "value": "How to Bake Perfect Bread" },
+      "summary": { "value": "Learn the secrets to golden crust and fluffy texture." },
+      "image": { "src": "/images/bread.jpg", "alt": "Bread" },
+      "cta": { "href": "/blogs/bake-perfect-bread", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-11",
+    "created": "2025-11-18T09:00:00",
+    "fields": {
+      "title": { "value": "Paneer Tikka Recipe" },
+      "summary": { "value": "Spicy, smoky, and delicious — a North Indian favorite." },
+      "image": { "src": "/images/paneer.jpg", "alt": "Paneer Tikka" },
+      "cta": { "href": "/blogs/paneer-tikka", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-12",
+    "created": "2025-11-17T08:00:00",
+    "fields": {
+      "title": { "value": "Chocolate Cake Tips" },
+      "summary": { "value": "Moist, rich, and indulgent — here’s how to master it." },
+      "image": { "src": "/images/chocolate-cake.jpg", "alt": "Chocolate Cake" },
+      "cta": { "href": "/blogs/chocolate-cake", "text": "Read More" }
+    }
+  },
+    {
+    "id": "blog-13",
+    "created": "2025-11-19T10:00:00",
+    "fields": {
+      "title": { "value": "How to Bake Perfect Bread" },
+      "summary": { "value": "Learn the secrets to golden crust and fluffy texture." },
+      "image": { "src": "/images/bread.jpg", "alt": "Bread" },
+      "cta": { "href": "/blogs/bake-perfect-bread", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-14",
+    "created": "2025-11-18T09:00:00",
+    "fields": {
+      "title": { "value": "Paneer Tikka Recipe" },
+      "summary": { "value": "Spicy, smoky, and delicious — a North Indian favorite." },
+      "image": { "src": "/images/paneer.jpg", "alt": "Paneer Tikka" },
+      "cta": { "href": "/blogs/paneer-tikka", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-15",
+    "created": "2025-11-17T08:00:00",
+    "fields": {
+      "title": { "value": "Chocolate Cake Tips" },
+      "summary": { "value": "Moist, rich, and indulgent — here’s how to master it." },
+      "image": { "src": "/images/chocolate-cake.jpg", "alt": "Chocolate Cake" },
+      "cta": { "href": "/blogs/chocolate-cake", "text": "Read More" }
+    }
+  },
+    {
+    "id": "blog-16",
+    "created": "2025-11-19T10:00:00",
+    "fields": {
+      "title": { "value": "How to Bake Perfect Bread" },
+      "summary": { "value": "Learn the secrets to golden crust and fluffy texture." },
+      "image": { "src": "/images/bread.jpg", "alt": "Bread" },
+      "cta": { "href": "/blogs/bake-perfect-bread", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-17",
+    "created": "2025-11-18T09:00:00",
+    "fields": {
+      "title": { "value": "Paneer Tikka Recipe" },
+      "summary": { "value": "Spicy, smoky, and delicious — a North Indian favorite." },
+      "image": { "src": "/images/paneer.jpg", "alt": "Paneer Tikka" },
+      "cta": { "href": "/blogs/paneer-tikka", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-18",
+    "created": "2025-11-17T08:00:00",
+    "fields": {
+      "title": { "value": "Chocolate Cake Tips" },
+      "summary": { "value": "Moist, rich, and indulgent — here’s how to master it." },
+      "image": { "src": "/images/chocolate-cake.jpg", "alt": "Chocolate Cake" },
+      "cta": { "href": "/blogs/chocolate-cake", "text": "Read More" }
+    }
+  },
+    {
+    "id": "blog-19",
+    "created": "2025-11-19T10:00:00",
+    "fields": {
+      "title": { "value": "How to Bake Perfect Bread" },
+      "summary": { "value": "Learn the secrets to golden crust and fluffy texture." },
+      "image": { "src": "/images/bread.jpg", "alt": "Bread" },
+      "cta": { "href": "/blogs/bake-perfect-bread", "text": "Read More" }
+    }
+  },
+  {
+    "id": "blog-20",
+    "created": "2025-11-18T09:00:00",
+    "fields": {
+      "title": { "value": "Paneer Tikka Recipe" },
+      "summary": { "value": "Spicy, smoky, and delicious — a North Indian favorite." },
+      "image": { "src": "/images/paneer.jpg", "alt": "Paneer Tikka" },
+      "cta": { "href": "/blogs/paneer-tikka", "text": "Read More" }
+    }
+  }
+]

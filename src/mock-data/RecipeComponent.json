@@ -1,0 +1,10 @@
+[
+{
+  "id": "recipe-3",
+  "componentName": "RecipeComponent",
+  "fields": {
+    "title": { "value": "Chocolate Cake" },
+    "description": { "value": "<p>Rich chocolate cake recipe</p>" },
+    "image": { "src": "/FoodImg.webp", "alt": "Chocolate Cake" }
+  }
+}]

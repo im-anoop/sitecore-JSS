@@ -1,0 +1,18 @@
+[
+  {
+    "id": "author-1",
+    "fields": {
+      "name": { "value": "Chef Mario" },
+      "bio": { "value": "Italian chef specializing in pasta dishes." },
+      "avatar": { "value": "/images/mario.jpg" }
+    }
+  },
+  {
+    "id": "author-2",
+    "fields": {
+      "name": { "value": "Chef Anjali" },
+      "bio": { "value": "Indian chef known for vegetarian curries." },
+      "avatar": { "value": "/images/anjali.jpg" }
+    }
+  }
+]

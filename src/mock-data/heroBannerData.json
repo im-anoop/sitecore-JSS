@@ -1,0 +1,11 @@
+[
+  {
+    "id": "banner-1",
+    "fields": {
+      "title": { "value": "Welcome to Food Recipes" },
+      "description": { "value": "<p>Discover delicious recipes from around the world.</p>" },
+      "heroImage": { "value": "/banner.jpg" },
+      "cta": { "href": "/recipecard", "text": "Explore Recipes" }
+    }
+  }
+]

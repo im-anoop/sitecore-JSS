@@ -1,0 +1,24 @@
+[
+  {
+    "id": "recipe-1",
+    "fields": {
+      "title": { "value": "Paneer Butter Masala" },
+      "description": { "value": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper." },
+      "image": { "value": "/FoodImg.webp" },
+      "category": { "value": "Italian" },
+      "author": { "value": "author-1" },
+      "cta": { "href": "/recipecard", "text": "Explore Recipes" }
+    }
+  },
+  {
+    "id": "recipe-2",
+    "fields": {
+      "title": { "value": "Paneer Butter Masala" },
+      "description": { "value": "Rich and creamy North Indian curry made with paneer and butter." },
+      "image": { "value": "/images.jpg" },
+      "category": { "value": "Indian" },
+      "author": { "value": "author-2" },
+      "cta": { "href": "/recipecard", "text": "Explore Recipes" }
+    }
+  }
+]
